@@ -9,3 +9,46 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+#trafficTop {
+    width: 10px;
+    height: 50px;
+    background-color: black;
+    margin: auto;
+}
+
+#container {
+    width: 100px;
+    height: 260px;
+    background-color: black;
+    margin: auto;
+
+}
+
+.red {
+    background-color: red;
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+   
+}
+
+.green {
+    background-color: green;
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+
+.yellow {
+    background-color: yellow;
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+}
+.ligth{
+      box-shadow: 0 0 20px rgb(255, 255, 255);
+}
