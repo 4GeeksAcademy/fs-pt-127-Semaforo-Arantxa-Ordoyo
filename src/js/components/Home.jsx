@@ -7,6 +7,7 @@ import Semaforo from "./Semaforo";
 //create your first component
 const Home = () => {
 	return (
+		//LLamamos a Semaforo
 		<div className="text-center">
             <Semaforo/>
 		</div>
